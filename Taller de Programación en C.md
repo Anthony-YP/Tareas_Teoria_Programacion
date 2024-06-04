@@ -46,13 +46,13 @@ Cada Ejercicio tiene 3 versiones, una con "for", con "while" y "do while".
    - While:
    - Do While:
 12. Sumar los números impares hasta n
-   - For:
-   - While:
-   - Do While:
+   - For: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/c2a2eb5bb43fc242aac8f8f3d02f4fd61f6d7a21/Ejercicios_Bucle_For/Ejercicio_12_For.c
+   - While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/c2a2eb5bb43fc242aac8f8f3d02f4fd61f6d7a21/Ejercicios_Bucle_While/Ejercicio_12_While.c
+   - Do While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/c2a2eb5bb43fc242aac8f8f3d02f4fd61f6d7a21/Ejercicios_Bucle_Do_While/Ejercicio_12_Do_While.c
 13. Sumar los números pares hasta n
-   - For:
-   - While:
-   - Do While:
+   - For: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/c2a2eb5bb43fc242aac8f8f3d02f4fd61f6d7a21/Ejercicios_Bucle_For/Ejercicio_13_For.c
+   - While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/c2a2eb5bb43fc242aac8f8f3d02f4fd61f6d7a21/Ejercicios_Bucle_While/Ejercicio_13_While.c
+   - Do While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/c2a2eb5bb43fc242aac8f8f3d02f4fd61f6d7a21/Ejercicios_Bucle_Do_While/Ejercicio_13_Do_While.c
 14. Suma de los cuadrados de los primeros n números
    - For:
    - While:
