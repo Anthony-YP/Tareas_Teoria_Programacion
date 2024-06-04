@@ -3,17 +3,17 @@ Estructura del Repositorio
 Cada Ejercicio tiene 3 versiones, una con "for", con "while" y "do while".
 
 1. Suma de los dígitos de un número
-- For: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_For/Ejercicio_1_For.c
-   - While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_While/Ejercicio_1_While.c
-   - Do While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/0fcb6223b8b6a8ac3fac4336e83e9af83b3fd877/Ejercicios_Bucle_Do_While/Ejercicio_1_Do_While.c
+ - For: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_For/Ejercicio_1_For.c
+- While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_While/Ejercicio_1_While.c
+- Do While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/0fcb6223b8b6a8ac3fac4336e83e9af83b3fd877/Ejercicios_Bucle_Do_While/Ejercicio_1_Do_While.c
 2. Inverso de un número
-   - For: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_For/Ejercicio_2_For.c
-   - While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_While/Ejercicio_2_While.c
-   - Do While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/0fcb6223b8b6a8ac3fac4336e83e9af83b3fd877/Ejercicios_Bucle_Do_While/Ejercicio_2_Do_While.c
+- For: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_For/Ejercicio_2_For.c
+- While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_While/Ejercicio_2_While.c
+- Do While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/0fcb6223b8b6a8ac3fac4336e83e9af83b3fd877/Ejercicios_Bucle_Do_While/Ejercicio_2_Do_While.c
 3. Potencia mediante sumas sucesivas
-   - For: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_For/Ejercicio_3_For.c
-   - While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_While/Ejercicio_3_While.c
-   - Do While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/0fcb6223b8b6a8ac3fac4336e83e9af83b3fd877/Ejercicios_Bucle_Do_While/Ejercicio_3_Do_While.c
+- For: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_For/Ejercicio_3_For.c
+- While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_While/Ejercicio_3_While.c
+- Do While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/0fcb6223b8b6a8ac3fac4336e83e9af83b3fd877/Ejercicios_Bucle_Do_While/Ejercicio_3_Do_While.c
 4. Radicación mediante restas sucesivas
    - For: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_For/Ejercicio_4_For.c
    - While: https://github.com/Anthony-YP/Tareas_Teoria_Programacion/blob/101e13ba9ab4227589adfc185faf0c1c088546d6/Ejercicios_Bucle_While/Ejercicio_4_While.c
